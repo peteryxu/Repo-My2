@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "pxapps"
+		},
+		{
+			"path": "pxblocs"
+		},
+		{
+			"path": "pxrepos"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,27 @@
+name: pxapps
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  #bloc: ^0.12.0
+  flutter_bloc: ^0.11.1
+
+  http: ^0.12.0
+  #equatable: ^0.2.3
+  url_launcher: ^4.0.3
+
+  pxblocs:
+    path: ../pxblocs
+  
+  pxrepos:
+    path: ../pxrepos
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter    
+
+flutter:
+   uses-material-design: true
