@@ -6,7 +6,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 
 import './widgets/index.dart';
-import '../common/weather_theme_bloc.dart';
+import 'weather_theme_bloc.dart';
 
 import 'package:pxrepos/weather/index.dart';
 import 'package:pxblocs/weather/index.dart';

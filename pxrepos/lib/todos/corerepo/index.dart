@@ -1,6 +1,5 @@
 export 'app_tab.dart';
 export 'extra_action.dart';
-export 'models.dart';
 export 'reactive_repository.dart';
 export 'todo.dart';
 export 'todo_entity.dart';

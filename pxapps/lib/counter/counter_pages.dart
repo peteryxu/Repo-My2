@@ -5,7 +5,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:pxblocs/counter/index.dart';
 
 //import packages in own package
-import 'package:pxapps/common/index.dart';
+import './counter_theme_bloc.dart';
 
 class CounterPage extends StatelessWidget {
   @override
